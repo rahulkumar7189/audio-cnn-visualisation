@@ -2,14 +2,6 @@
 
 ![alt text](thumbnail.png)
 
-[Link to video](https://youtu.be/KLYfwigQPuY)
-
-[Discord and more](https://www.andreastrolle.com/)
-
-## Overview
-
-Hi 🤙 In this video, you'll learn to train and deploy an audio classification CNN from scratch with PyTorch. I'll cover all the required concepts, so no prior experience is needed. The model will classify sounds like a dog barking or birds chirping from an audio file. You'll work with advanced techniques like Residual Networks (ResNet), data mixing, and Mel Spectrograms to build a robust training pipeline. Afterwards, we'll build a dashboard using Next.js and React to upload audio and visualize the model's internal layers to see what it "sees". The project uses Python, PyTorch, Next.js, React, and Tailwind, based on the T3 Stack. You can build along with me from start to finish. All services used are 100% free for you to use.
-
 ## Features:
 
 - 🧠 Deep Audio CNN for sound classification
