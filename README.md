@@ -21,7 +21,7 @@
 - ✅ Pydantic data validation for robust API requests
 
 ## Setup
-
+ 
 Follow these steps to install and set up the project.
 
 ### Clone the Repository
