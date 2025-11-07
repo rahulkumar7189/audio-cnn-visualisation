@@ -2,7 +2,7 @@
 
 ![alt text](thumbnail.png)
 
-## Features:
+## Features: 
 
 - 🧠 Deep Audio CNN for sound classification
 - 🧱 ResNet-style architecture with residual blocks
