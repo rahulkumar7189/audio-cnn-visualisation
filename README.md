@@ -6,7 +6,7 @@
 
 - 🧠 Deep Audio CNN for sound classification
 - 🧱 ResNet-style architecture with residual blocks
-- 🎼 Mel Spectrogram audio-to-image conversion
+- 🎼 Mel Spectrogram audio-to-image conversion 
 - 🎛️ Data augmentation with Mixup & Time/Frequency Masking
 - ⚡ Serverless GPU inference with Modal
 - 📊 Interactive Next.js & React dashboard
